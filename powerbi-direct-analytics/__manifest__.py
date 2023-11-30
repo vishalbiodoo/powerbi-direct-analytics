@@ -23,7 +23,7 @@
     'currency': 'USD',
     # any module necessary for this one to work correctly
  
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner1.gif'],
     "license":"LGPL-3",
 
     # always loaded
